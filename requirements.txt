@@ -3,3 +3,6 @@ uvicorn
 openai
 python-dotenv
 langserve
+langchain-anthropic
+langchain-google-genai
+langchain-groq
